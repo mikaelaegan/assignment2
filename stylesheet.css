@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.jumbotron{
+	margin-top: 10px;
+	background-color: #E3C0C1;
+	color: #AA3053;
+}
+
+.navbar{
+	margin-top: 10px;
+	background-color: #AA3053;
+	color: white;
+}
+
+#myCarousel{
+	background-color: #AA3053;
+	color: #E3C0C1;
+	text-align: center;
+}
+
+h2{
+	color: #3F2977;
+}
+
+.form-group{
+	padding: 30px;
+}
+	
+
